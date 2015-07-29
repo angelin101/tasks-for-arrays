@@ -1,5 +1,3 @@
-package HomeWork.homeWork2;
-
 /**
  * Created by Ангелин on 19.07.2015.
  * Дана последовательность натуральных чисел a1, a2, ..., an.
